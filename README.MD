@@ -1,6 +1,6 @@
 Reactplus
 
-Welcome to Reactplus - your advanced toolkit for React development!
+Welcome to Reactplus - Your advanced toolkit for React development!
 
 Overview
 Reactplus is a powerful script designed to enhance your React development experience. With Reactplus , you can streamline your workflow, boost productivity, and unlock new possibilities for your React projects.
